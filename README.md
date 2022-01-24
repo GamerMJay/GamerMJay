@@ -17,7 +17,7 @@
   
 <br><br><br><br>
   
-# :zap: Soon
+# :zap: Friends
 <!--START_SECTION:activity-->
-- Soon
+- https://github.com/leMimic
 <!--END_SECTION:activity-->
