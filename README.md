@@ -11,6 +11,7 @@
 <div align="center">
   
  - https://github.com/GamerMJay2008/AutoMineReset
+ - https://github.com/GamerMJay2008/craft
  
 </div>
   
