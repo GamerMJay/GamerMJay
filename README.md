@@ -2,6 +2,7 @@
 <div align="center">
   
 - https://github.com/GamerMJay2008/All-or-nothing
+- https://github.com/GamerMJay2008/BetterGM
   
 </div>
   
