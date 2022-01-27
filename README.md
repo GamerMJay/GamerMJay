@@ -13,6 +13,7 @@
   
  - https://github.com/GamerMJay2008/PM-Emotes
  - https://github.com/GamerMJay2008/MCPEToDiscord
+ - https://github.com/GamerMJay2008/School
  
 </div>
   
