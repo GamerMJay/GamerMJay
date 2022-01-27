@@ -11,7 +11,6 @@
 # :package: Forks
 <div align="center">
   
- - https://github.com/GamerMJay2008/AutoMineReset
  - https://github.com/GamerMJay2008/craft
  - https://github.com/GamerMJay2008/PM-Emotes
  
