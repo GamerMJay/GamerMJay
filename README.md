@@ -3,6 +3,7 @@
   
 - https://github.com/GamerMJay2008/All-or-nothing
 - https://github.com/GamerMJay2008/BetterGM
+- https://github.com/GamerMJay2008/BetterGodMode
   
 </div>
   
