@@ -1,10 +1,10 @@
 # :star: My Pocketmine Plugins
 <div align="center">
   
-- https://github.com/GamerMJay2008/All-or-nothing
-- https://github.com/GamerMJay2008/BetterGM
-- https://github.com/GamerMJay2008/BetterGodMode
-- https://github.com/GamerMJay2008/BetterRename
+- https://github.com/GamerMJay/All-or-nothing
+- https://github.com/GamerMJay/BetterGM
+- https://github.com/GamerMJay/BetterGodMode
+- https://github.com/GamerMJay/BetterRename
   
 </div>
   
@@ -13,9 +13,9 @@
 # :package: Forks
 <div align="center">
   
- - https://github.com/GamerMJay2008/PM-Emotes
- - https://github.com/GamerMJay2008/MCPEToDiscord
- - https://github.com/GamerMJay2008/School
+ - https://github.com/GamerMJay/PM-Emotes
+ - https://github.com/GamerMJay/MCPEToDiscord
+ - https://github.com/GamerMJay/School
  
 </div>
   
