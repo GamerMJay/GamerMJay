@@ -5,6 +5,7 @@
 - https://github.com/GamerMJay/BetterGameMode
 - https://github.com/GamerMJay/BetterGodMode
 - https://github.com/GamerMJay/BetterRename
+- https://github.com/GamerMJay/BetterClear
   
 </div>
   
