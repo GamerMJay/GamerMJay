@@ -2,7 +2,7 @@
 <div align="center">
   
 - https://github.com/GamerMJay/All-or-nothing
-- https://github.com/GamerMJay/BetterGM
+- https://github.com/GamerMJay/BetterGameMode
 - https://github.com/GamerMJay/BetterGodMode
 - https://github.com/GamerMJay/BetterRename
   
