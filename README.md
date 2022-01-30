@@ -7,6 +7,8 @@
 - https://github.com/GamerMJay/BetterRename
 - https://github.com/GamerMJay/BetterClear
 - https://github.com/GamerMJay/BetterRepair
+- https://github.com/GamerMJay/BetterClearChat
+
   
 </div>
   
