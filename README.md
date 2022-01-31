@@ -3,11 +3,11 @@
   
 - https://github.com/GamerMJay/All-or-nothing
 - https://github.com/GamerMJay/BetterGameMode
-- https://github.com/GamerMJay/BetterGodMode
+- https://github.com/GamerMJay/BetterGodMode (soon)
 - https://github.com/GamerMJay/BetterRename
-- https://github.com/GamerMJay/BetterClear
+- https://github.com/GamerMJay/BetterClear (soon)
 - https://github.com/GamerMJay/BetterRepair
-- https://github.com/GamerMJay/BetterClearChat
+- https://github.com/GamerMJay/EasyClearChat
 
   
 </div>
