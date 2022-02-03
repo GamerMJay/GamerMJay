@@ -19,7 +19,6 @@
   
  - https://github.com/GamerMJay/PM-Emotes
  - https://github.com/GamerMJay/MCPEToDiscord
- - https://github.com/GamerMJay/School
  
 </div>
   
