@@ -8,6 +8,7 @@
 - https://github.com/GamerMJay/BetterClear (soon)
 - https://github.com/GamerMJay/BetterRepair
 - https://github.com/GamerMJay/EasyClearChat
+- https://github.com/GamerMJay/EasyNoFallDamage
 
   
 </div>
