@@ -9,7 +9,6 @@
 - https://github.com/GamerMJay/EasyNoFallDamage
 - https://github.com/GamerMJay/AdvancedHeal
 - https://github.com/GamerMJay/EasySkin
-- https://github.com/GamerMJay/KeepYourXp
 
   
 </div>
@@ -22,6 +21,7 @@
  - https://github.com/GamerMJay/PM-Emotes
  - https://github.com/GamerMJay/MCPEToDiscord
  - https://github.com/GamerMJay/WordScrambler
+ - https://github.com/GamerMJay/KeepYourXp
  
 </div>
   
@@ -29,5 +29,5 @@
   
 # :zap: Friends
 <!--START_SECTION:activity-->
-- https://github.com/leMimic
+- https://github.com/ByMimic
 <!--END_SECTION:activity-->
