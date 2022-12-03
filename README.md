@@ -29,5 +29,5 @@
   
 # :zap: Friends
 <!--START_SECTION:activity-->
-- https://github.com/ByMimic
+- https://github.com/JvstinXz
 <!--END_SECTION:activity-->
