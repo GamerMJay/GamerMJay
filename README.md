@@ -20,7 +20,6 @@
  - https://github.com/GamerMJay/PM-Emotes
  - https://github.com/GamerMJay/MCPEToDiscord
  - https://github.com/GamerMJay/WordScrambler
- - https://github.com/GamerMJay/KeepYourXp
  - https://github.com/GamerMJay/GlobalMute
  
 </div>
