@@ -30,4 +30,4 @@
 <!--START_SECTION:activity-->
 - https://github.com/JvstinXz
 - https://github.com/note3crafter
-- <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
