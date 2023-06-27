@@ -26,7 +26,8 @@
   
 <br><br><br><br>
   
-# :zap: Friends
+# ❤️: Friends
 <!--START_SECTION:activity-->
 - https://github.com/JvstinXz
-<!--END_SECTION:activity-->
+- https://github.com/note3crafter
+- <!--END_SECTION:activity-->
