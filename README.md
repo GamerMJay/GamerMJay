@@ -8,6 +8,7 @@
 - https://github.com/GamerMJay/EasyClearChat
 - https://github.com/GamerMJay/AdvancedHeal
 - https://github.com/GamerMJay/EasySkin
+- https://github.com/GamerMJay/EasyTrampoline (archived)
 
   
 </div>
