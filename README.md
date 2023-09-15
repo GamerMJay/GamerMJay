@@ -2,6 +2,7 @@
 <div align="center">
   
 - https://github.com/GamerMJay/All-or-nothing (archived)
+- https://github.com/GamerMJay/MCPEToDiscord
 - https://github.com/GamerMJay/BetterGameMode
 - https://github.com/GamerMJay/BetterRename
 - https://github.com/GamerMJay/BetterRepair
@@ -19,7 +20,6 @@
 <div align="center">
   
  - https://github.com/GamerMJay/MCPEToDiscord
- - https://github.com/GamerMJay/WordScrambler
  - https://github.com/GamerMJay/GlobalMute
  
 </div>
