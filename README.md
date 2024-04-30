@@ -24,4 +24,5 @@
   
 # ❤️ Friends
 - https://github.com/JvstinXz
+- https://github.com/KaitoZerjoYT
 - https://github.com/note3crafter
