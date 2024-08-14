@@ -12,6 +12,7 @@
 - [EasyClearChat](https://github.com/GamerMJay/EasyClearChat)
 - [AdvancedHeal](https://github.com/GamerMJay/AdvancedHeal)
 - [EasySkin](https://github.com/GamerMJay/EasySkin)
+- [ProxyBroadcast](https://github.com/GamerMJay/ProxyBroadcast)
 
 <h1 align> My knowledge: </h1>
 <br clear="both">
