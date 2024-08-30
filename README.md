@@ -2,7 +2,7 @@
 
 # My Project:
 - [Creativa Studios](https://github.com/Creativa-Studios) (**Founder**) - since 2024 April
-- [CrivitySucht.DE](https://github.com/CrivitySuchtDE) (**Owner**) - since 2019
+- [CrivitySucht.DE](https://github.com/CrivitySuchtDE) (**Owner**) - since 2019 - 30.08.2024 
 
 # Plugins:
 - [MCPEToDiscord](https://github.com/GamerMJay/MCPEToDiscord)
