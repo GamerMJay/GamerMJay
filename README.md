@@ -1,8 +1,7 @@
 <h1 align>Hey, I am GamerMJay ✌</h1>
 
 # My Project:
-- [Creativa Studios](https://github.com/Creativa-Studios) (**Founder**) - since 2024 April
-- [CrivitySucht.DE](https://github.com/CrivitySuchtDE) (**Owner**) - since 2019 -
+- [CrivitySucht.DE](https://github.com/CrivitySuchtDE) (**Owner**) - since 2019 - 2024
 
 # Plugins:
 - [MCPEToDiscord](https://github.com/GamerMJay/MCPEToDiscord)
@@ -36,4 +35,3 @@
 
 # My Friends:
 - [JvstinXz](https://github.com/JvstinXz)
-- [KaitoZerjoYT](https://github.com/KaitoZerjoYT)
